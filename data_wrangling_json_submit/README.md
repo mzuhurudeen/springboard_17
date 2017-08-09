@@ -1,4 +1,4 @@
-<h2>**Springboard Data Science Career Track**<h2>
+<h2>Springboard Data Science Career Track<h2>
 
 Muneer Zuhurudeen
 
