@@ -1,6 +1,9 @@
 **Springboard Data Science Career Track**
+
 Muneer Zuhurudeen
+
 Project: Parsing JSON dataset in order to analyze with newly acquired Pandas skills. 
+
 Key concepts: Reading in a json file, nested key value pairs, flattening nested elements into a table, merging data sets. 
 
 The data used can be found in the "data" folder in this repository. 
