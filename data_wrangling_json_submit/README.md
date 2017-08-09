@@ -1,4 +1,4 @@
-**Springboard Data Science Career Track**
+<h2>**Springboard Data Science Career Track**<h2>
 
 Muneer Zuhurudeen
 
@@ -16,7 +16,8 @@ Using data in file 'data/world_bank_projects.json',
 1. Find the top 10 major project themes (using column 'mjtheme_namecode')
 1. In 2. above you will notice that some entries have only the code and the name is missing. Create a dataframe with the missing names filled in.
 	
-Method (for more information, see comments in code)
+Method (for more information, see comments in code):
+
 1. Read in necessary libraries and data
 1. Get a sense of what the dataset looks like
 1. Rank top 10 countries with the most projects (pandas knowledge and sytax used)
